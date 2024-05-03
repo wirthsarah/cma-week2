@@ -97,4 +97,3 @@ ggplot(caro_long, aes(name, value)) +
 #A steady decrease in median speed as the temporal analysis scale increases; yes
 #A decrease in the overall variance in speed as the temporal scale increases; yes
 #Lower minimum values at the shortest temporal scales; as in lower boxes :yes
-
